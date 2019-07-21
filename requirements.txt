@@ -1,0 +1,8 @@
+requests
+pyrebase
+asyncio
+aiohttp
+youtube_dl
+pytesseract
+Pillow
+discord.py[voice]
